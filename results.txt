@@ -1,0 +1,286 @@
+Your name :john
+You Played :
+2
+Game 1 of 2
+Your hand:
+2 of  diamonds
+2 of  clubs
+Dealer's  hand:
+Hidden
+7 of  hearts
+
+Your choice was : hit
+
+Your hand:
+2 of  diamonds
+2 of  clubs
+A of  diamonds
+
+Your choice was : stand
+
+Dealer's  hand:
+A of  hearts
+7 of  hearts
+
+Final Results:
+15
+18
+
+Dealer Wins!
+
+Game 2 of 2
+Your hand:
+K of  diamonds
+J of  clubs
+Dealer's  hand:
+Hidden
+5 of  diamonds
+
+Your choice was : hit
+
+Your hand:
+K of  diamonds
+J of  clubs
+7 of  clubs
+
+You busted. Dealer wins!
+
+Thanks for Playing!john
+
+Your name : danny
+You Played :
+2
+Game 1 of 2
+Your hand:
+7 of  hearts
+2 of  hearts
+Dealer's  hand:
+Hidden
+2 of  speades
+
+Your choice was : hit
+
+Your hand:
+7 of  hearts
+2 of  hearts
+K of  diamonds
+
+Your choice was : stand
+
+Dealer's  hand:
+9 of  speades
+2 of  speades
+J of  hearts
+
+Dealer has blackjack. Dealer wins!
+
+Game 2 of 2
+Your hand:
+5 of  diamonds
+K of  diamonds
+Dealer's  hand:
+Hidden
+3 of  clubs
+
+Your choice was : hit
+
+Your hand:
+5 of  diamonds
+K of  diamonds
+K of  clubs
+
+You busted. Dealer wins!
+
+Thanks for Playing! danny
+
+You Played :
+3
+Game 1 of 3
+Your hand:
+6 of  diamonds
+9 of  speades
+Dealer's  hand:
+Hidden
+5 of  diamonds
+
+Your choice was : hit
+
+Your hand:
+6 of  diamonds
+9 of  speades
+2 of  diamonds
+
+Your choice was : stand
+
+Dealer's  hand:
+7 of  hearts
+5 of  diamonds
+K of  speades
+
+Dealer busted. You win!
+
+Game 2 of 3
+Your hand:
+2 of  clubs
+A of  speades
+Dealer's  hand:
+Hidden
+Q of  speades
+
+Your choice was : stand
+
+Dealer's  hand:
+4 of  hearts
+Q of  speades
+8 of  diamonds
+
+Dealer busted. You win!
+
+Game 3 of 3
+Your hand:
+5 of  diamonds
+10 of  clubs
+Dealer's  hand:
+Hidden
+K of  diamonds
+
+Your choice was : hit
+
+Your hand:
+5 of  diamonds
+10 of  clubs
+10 of  hearts
+
+You busted. Dealer wins!
+
+Thanks for Playing! danny
+
+Your name : john
+You Played :
+2
+Game 1 of 2
+Your hand:
+10 of  clubs
+J of  hearts
+Dealer's  hand:
+Hidden
+2 of  clubs
+
+Your choice was : hit
+
+Your hand:
+10 of  clubs
+J of  hearts
+J of  clubs
+
+You busted. Dealer wins!
+
+Game 2 of 2
+Your hand:
+J of  speades
+Q of  hearts
+Dealer's  hand:
+Hidden
+8 of  clubs
+
+Your choice was : stand
+
+Dealer's  hand:
+8 of  hearts
+8 of  clubs
+2 of  diamonds
+
+Final Results:
+20
+18
+
+You win!
+
+Thanks for Playing! john
+
+Your name :john
+You Played :
+2
+Game 1 of 2
+Your hand:
+Q of  clubs
+Q of  diamonds
+Dealer's  hand:
+Hidden
+K of  diamonds
+
+Your choice was : hit
+
+Your hand:
+Q of  clubs
+Q of  diamonds
+2 of  diamonds
+
+You busted. Dealer wins!
+
+Game 2 of 2
+Your hand:
+A of  clubs
+8 of  speades
+Dealer's  hand:
+Hidden
+K of  speades
+
+Your choice was : stand
+
+Dealer's  hand:
+6 of  clubs
+K of  speades
+2 of  clubs
+
+Final Results:
+19
+18
+
+You win!
+
+Thanks for Playing!john
+
+You Played :
+2
+Game 1 of 2
+Your hand:
+Q of  clubs
+6 of  diamonds
+Dealer's  hand:
+Hidden
+7 of  speades
+
+Your choice was : hit
+
+Your hand:
+Q of  clubs
+6 of  diamonds
+K of  hearts
+
+You busted. Dealer wins!
+
+Game 2 of 2
+Your hand:
+5 of  clubs
+A of  speades
+Dealer's  hand:
+Hidden
+7 of  clubs
+
+Your choice was : stand
+
+Dealer's  hand:
+4 of  clubs
+7 of  clubs
+4 of  diamonds
+2 of  diamonds
+
+Final Results:
+16
+17
+
+Dealer Wins!
+
+Thanks for Playing!john
+
